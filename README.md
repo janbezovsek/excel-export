@@ -36,3 +36,8 @@ open new terminal
 
 We have a simple page with with a button to export data in an object to Excel format XLSX
 and save it to your local computer.
+
+
+
+![excel](https://github.com/user-attachments/assets/13aef854-afc5-4c95-9b71-41485b9e59aa)
+
